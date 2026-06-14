@@ -4,7 +4,7 @@
 
 <code>AI Alchemist (Developer/AI Engineer/Full-Stack Specialist)</code>
 
-I'm an Indian developer and B.Tech CSE AI 2nd Year student crafting intelligent solutions that bridge the gap between complex problems and elegant code. All my projects start with a simple question: *"How can AI make this better?"* From modern full-stack web applications processing complex data to dynamic, AI-powered systems (like Wordly V2), I build architectures that create real impact. Focused on infusing AI intelligence into every software workflow I design.
+I'm an Indian developer and B.Tech CSE AI   student @ Galgotias University crafting intelligent solutions that bridge the gap between complex problems and elegant code. All my projects start with a simple question: *"How can AI make this better?"* From modern full-stack web applications processing complex data to dynamic, AI-powered systems (like Wordly V2), I build architectures that create real impact. Focused on infusing AI intelligence into every software workflow I design.
 
 ---
 
