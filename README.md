@@ -12,7 +12,7 @@ I'm an Indian developer and B.Tech CSE AI   student @ Galgotias University craft
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,python,go,git,github,vscode,linux,vercel&perline=8" />
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,python,go,mongodb,mysql,git,github,vscode,linux,vercel&perline=8" />
   </a>
 </p>
 
