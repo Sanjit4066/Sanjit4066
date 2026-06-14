@@ -2,9 +2,13 @@
 
 # Sanjit Kushwaha 🇮🇳
 
-<code>AI Alchemist (Developer/AI Engineer/Full-Stack Specialist)</code>
+<code>Software Developer (Java / C++ / Web) & Purpose-Driven Engineer</code>
 
-I'm an Indian developer and B.Tech CSE AI   student @ Galgotias University crafting intelligent solutions that bridge the gap between complex problems and elegant code. All my projects start with a simple question: *"How can AI make this better?"* From modern full-stack web applications processing complex data to dynamic, AI-powered systems (like Wordly V2), I build architectures that create real impact. Focused on infusing AI intelligence into every software workflow I design.
+I am a Computer Science student (B.Tech CSE AI) driven by a singular, overarching mission: **to serve society and make life easier for people through technology.** 
+
+I am currently building rock-solid engineering fundamentals by mastering Data Structures and Algorithms in C++, while simultaneously bringing high-impact architectures to life through core application projects in Java. My repository portfolio ranges from robust Employee and Hospital Management Systems to AI-integrated web platforms.
+
+However, my ultimate passion lies in building infrastructure that directly solves human problems. I am working towards a vision of creating a seamless, scalable platform that bridges the gap between generous donors and those in need—starting with the most fundamental human necessity: food. I believe that code is more than just logic; it is a tool to foster humanity, build connections, and deliver real, tangible value to the world.
 
 ---
 
@@ -19,7 +23,7 @@ I'm an Indian developer and B.Tech CSE AI   student @ Galgotias University craft
 <br/>
 
 <p align="center">
-  <i>"Code is poetry written in logic, and artificial intelligence is the art of giving it a mind."</i>
+  <i>"Code is poetry written in logic, and software is the bridge between human empathy and global solutions."</i>
 </p>
 
 <p align="center">
